@@ -1,3 +1,2 @@
 # RESTServer
-REST server using Node.js, Express, and Mongoose.
-The server will function as a backend for an Ember CLI project.
+Example Ember CLI client and REST server backend.
